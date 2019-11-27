@@ -1,0 +1,34 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "Tedt",
+      "content": "Tesz",
+      "id": 2
+    },
+    {
+      "title": "Test3",
+      "content": "Test3",
+      "id": 3
+    },
+    {
+      "title": "Test4",
+      "content": "Test44",
+      "id": 4
+    },
+    {
+      "title": "Update #5",
+      "content": "55555",
+      "id": 5
+    },
+    {
+      "title": "Update #6",
+      "content": "Update six",
+      "id": 6
+    }
+  ]
+}
